@@ -18,6 +18,23 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](dashboard1.png)
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 💰 Pricing Page
+![Pricing](pricing.png)
+
+### 🤖 Thumbnail Analyzer
+![Thumbnail Analyzer](tumbnail-analyzer.png)
+
+### 📝 Title Generator
+![Title Generator](title-generator.png)
+
 ## 📦 Project Structure
 
 ```
