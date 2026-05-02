@@ -136,3 +136,4 @@ Weighted scoring across 7 factors:
 - Input validation via Zod
 - bcryptjs password hashing (salt rounds: 12)
 - CORS whitelisting
+
